@@ -1,0 +1,292 @@
+[
+    {
+        "name": "Training Camp",
+        "trophyRequirement": 0,
+        "unlocks": [
+            "Minions",
+            "Knight",
+            "Arrows",
+            "Archers",
+            "Fireball",
+            "Mini P.E.K.K.A.",
+            "Musketeer",
+            "Giant"
+        ]
+    },
+    {
+        "name": "Goblin Stadium",
+        "trophyRequirement": 0,
+        "unlocks": [
+            "Goblins",
+            "Spear Goblins",
+            "Goblin Cage",
+            "Goblin Hut"
+        ]
+    },
+    {
+        "name": "Bone Pit",
+        "trophyRequirement": 300,
+        "unlocks": [
+            "Valkyrie",
+            "Bomber",
+            "Tombstone",
+            "Skeletons"
+        ]
+    },
+    {
+        "name": "Barbarian Bowl",
+        "trophyRequirement": 600,
+        "unlocks": [
+            "Barbarians",
+            "Cannon",
+            "Mega Minion",
+            "Battering Ram"
+        ]
+    },
+    {
+        "name": "Spell Valley",
+        "trophyRequirement": 1000,
+        "unlocks": [
+            "Electro Spirit",
+            "Fire Spirit",
+            "Skeleton Dragons",
+            "Wizard",
+            "Inferno Tower",
+            "Bomb Tower"
+        ]
+    },
+    {
+        "name": "Builder's Workshop",
+        "trophyRequirement": 1300,
+        "unlocks": [
+            "Zap",
+            "Mortar",
+            "Bats",
+            "Rocket",
+            "Flying Machine",
+            "Hog Rider"
+        ]
+    },
+    {
+        "name": "P.E.K.K.A.'s Playhouse",
+        "trophyRequirement": 1600,
+        "unlocks": [
+            "Goblin Barrel",
+            "Guards",
+            "Baby Dragon",
+            "Skeleton Army",
+            "P.E.K.K.A.",
+            "Witch"
+        ]
+    },
+    {
+        "name": "Royal Arena",
+        "trophyRequirement": 2000,
+        "unlocks": [
+            "Royal Recruits",
+            "Royal Giant",
+            "Royal Hogs",
+            "Three Musketeers",
+            "Dark Prince",
+            "Prince",
+            "Balloon"
+        ]
+    },
+    {
+        "name": "Frozen Peak",
+        "trophyRequirement": 2300,
+        "unlocks": [
+            "Giant Snowball",
+            "Ice Spirit",
+            "Battle Healer",
+            "Ice Golem",
+            "Vines",
+            "Lightning",
+            "Freeze",
+            "Giant Skeleton"
+        ]
+    },
+    {
+        "name": "Jungle Arena",
+        "trophyRequirement": 2600,
+        "unlocks": [
+            "Berserker",
+            "Skeleton Barrel",
+            "Goblin Gang",
+            "Barbarian Hut",
+            "Dart Goblin",
+            "Barbarian Barrel",
+            "Poison",
+            "Rune Giant",
+            "Goblin Giant"
+        ]
+    },
+    {
+        "name": "Hog Mountain",
+        "trophyRequirement": 3000,
+        "unlocks": [
+            "Tesla",
+            "Elite Barbarians",
+            "Minion Horde",
+            "Furnace",
+            "Zappies",
+            "X-Bow",
+            "Hunter",
+            "Golem"
+        ]
+    },
+    {
+        "name": "Electro Valley",
+        "trophyRequirement": 3400,
+        "unlocks": [
+            "The Log",
+            "Mega Knight",
+            "Ram Rider",
+            "Electro Wizard",
+            "Inferno Dragon",
+            "Sparky",
+            "Miner",
+            "Princess"
+        ]
+    },
+    {
+        "name": "Spooky Town",
+        "trophyRequirement": 3800,
+        "unlocks": [
+            "Firecracker",
+            "Earthquake",
+            "Goblin Demolisher",
+            "Electro Dragon",
+            "Wall Breakers",
+            "Graveyard",
+            "Phoenix",
+            "Royal Ghost",
+            "Ice Wizard"
+        ]
+    },
+    {
+        "name": "Rascal's Hideout",
+        "trophyRequirement": 4200,
+        "unlocks": [
+            "Rascals",
+            "Heal Spirit",
+            "Suspicious Bush",
+            "Electro Giant",
+            "Bowler",
+            "Magic Archer",
+            "Bandit",
+            "Lava Hound"
+        ]
+    },
+    {
+        "name": "Serenity Peak",
+        "trophyRequirement": 4600,
+        "unlocks": [
+            "Royal Delivery",
+            "Elixir Golem",
+            "Goblin Curse",
+            "Rage",
+            "Goblin Drill",
+            "Executioner",
+            "Night Witch",
+            "Lumberjack"
+        ]
+    },
+    {
+        "name": "Miner's Mine",
+        "trophyRequirement": 5000,
+        "unlocks": [
+            "Elixir Pump",
+            "Void",
+            "Clone",
+            "Mirror",
+            "Tornado",
+            "Cannon Cart",
+            "Spirit Empress",
+            "Goblin Machine",
+            "Mother Witch",
+            "Fisherman"
+        ]
+    },
+    {
+        "name": "Executioner's Kitchen",
+        "trophyRequirement": 5500,
+        "unlocks": [
+            "Golden Knight",
+            "Skeleton King"
+        ]
+    },
+    {
+        "name": "Royal Crypt",
+        "trophyRequirement": 6000,
+        "unlocks": [
+            "Boss Bandit",
+            "Archer Queen",
+            "Mighty Miner"
+        ]
+    },
+    {
+        "name": "Silent Sanctuary",
+        "trophyRequirement": 6500,
+        "unlocks": [
+            "Monk",
+            "Little Prince",
+            "Goblinstein"
+        ]
+    },
+    {
+        "name": "Dragon Spa",
+        "trophyRequirement": 7000,
+        "unlocks": null
+    },
+    {
+        "name": "Boot Camp",
+        "trophyRequirement": 7500,
+        "unlocks": null
+    },
+    {
+        "name": "Clash Fest",
+        "trophyRequirement": 8000,
+        "unlocks": null
+    },
+    {
+        "name": "PANCAKES!",
+        "trophyRequirement": 8500,
+        "unlocks": null
+    },
+    {
+        "name": "Valkalla",
+        "trophyRequirement": 9000,
+        "unlocks": null
+    },
+    {
+        "name": "Legendary Arena",
+        "trophyRequirement": 9500,
+        "unlocks": null
+    },
+    {
+        "name": "Seasonal 1",
+        "trophyRequirement": 10000,
+        "unlocks": null
+    },
+    {
+        "name": "Seasonal 2",
+        "trophyRequirement": 11000,
+        "unlocks": null
+    },
+    {
+        "name": "Seasonal 3",
+        "trophyRequirement": 12000,
+        "unlocks": null
+    },
+    {
+        "name": "Seasonal 4",
+        "trophyRequirement": 13500,
+        "unlocks": null
+    },
+    {
+        "name": "Seasonal 5",
+        "trophyRequirement": 15000,
+        "unlocks": null
+    }
+]
